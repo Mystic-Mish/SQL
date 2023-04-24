@@ -1,3 +1,6 @@
+-- create a database
+CREATE DATABASE business;
+
 -- create a table
 CREATE TABLE products (
   product_id INTEGER PRIMARY KEY,

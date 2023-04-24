@@ -1,3 +1,6 @@
+-- create a database
+CREATE DATABASE business;
+
 -- create a table
 CREATE TABLE customers (
   customer_id INTEGER PRIMARY KEY,

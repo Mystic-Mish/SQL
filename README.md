@@ -1,2 +1,3 @@
 # SQL
-A repo for MySQL projects.
+
+Simple MySQL commands that can be run on;ine or offline.
